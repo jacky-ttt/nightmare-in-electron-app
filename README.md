@@ -1,5 +1,5 @@
-This project demonstrate how to use nightmareJS in an electron application. It is developed on an MacOS machine and uses `electron-forge` for boilerplate.
-  
+This project demonstrate how to use nightmareJS in an electron application. It is developed on a MacOS machine and uses `electron-forge` for boilerplate.
+
 1. install npm packages required by the project
 ```
 npm install
